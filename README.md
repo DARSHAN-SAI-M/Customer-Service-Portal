@@ -9,7 +9,7 @@ A desktop app to manage customer service requests, with automated CSV logging.
 - ✔️ Form for customer details (name, phone, device info)
 - ✔️ Auto-generated complaint IDs
 - ✔️ CSV data storage
-
+![App Screenshot](./image.png)
 ## How to Run
 ```bash
 python customer.py
